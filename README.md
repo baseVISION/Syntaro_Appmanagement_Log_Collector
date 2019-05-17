@@ -1,0 +1,1 @@
+# Syntaro_Appmanagement_Log_Collector
